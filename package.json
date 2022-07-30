@@ -1,0 +1,16 @@
+{
+  "name": "uber-server",
+  "version": "1.0.0",
+  "description": "uber clone coding",
+  "main": "index.js",
+  "repository": "https://github.com/furahalee/uber-server.git",
+  "author": "Heemin <viridian135@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.2",
+    "nodemon": "^2.0.19",
+    "ts-node": "^10.9.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.7.4"
+  }
+}
